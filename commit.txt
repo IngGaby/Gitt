@@ -1,0 +1,29 @@
+commit f560fde22b10b6c1cea01337bfaff49bddc45cf4
+Author: IngGaby <gaviotaa07@hotmail.com>
+Date:   Wed Jan 21 14:05:18 2015 -0600
+
+    Inserte una imaje, un titulo y el campo de fecha de nacimientoen el index
+
+commit 22b14cba4277205a7e4e185e54f5c7f330a67a1e
+Author: IngGaby <gaviotaa07@hotmail.com>
+Date:   Wed Jan 21 13:39:54 2015 -0600
+
+    agregue un boton de guardar,el campo de edad y ocupacion en el index
+
+commit d3d007784b78d3ef40e430edb616e21ca88cce7f
+Author: IngGaby <gaviotaa07@hotmail.com>
+Date:   Wed Jan 21 13:23:48 2015 -0600
+
+    Agregue campo de Apellidos y Edad al index ,agregue un nuevo archivo css
+
+commit eb6a9c66d7e02d13b10e5131a0fb71865e38a9e4
+Author: IngGaby <gaviotaa07@hotmail.com>
+Date:   Wed Jan 21 13:11:45 2015 -0600
+
+    Cambie el nombre del titulo
+
+commit e8bc494f5329d5c8826c52b0c2695ba33f779d58
+Author: IngGaby <gaviotaa07@hotmail.com>
+Date:   Wed Jan 21 13:09:18 2015 -0600
+
+    Agregue index
